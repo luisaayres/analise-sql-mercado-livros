@@ -44,7 +44,7 @@ Os resultados fornecem direcionamentos claros para o desenvolvimento e curadoria
 - Sistemas de Recomendação: Usuários engajados fornecem um volume massivo de classificações numéricas (mais de 50 por perfil), o que garante uma base rica de dados para alimentar algoritmos de recomendação personalizada.
 - Incentivo à Comunidade: Como apenas uma parcela do público ativo escreve resenhas completas (24,33 resenhas vs 54,33 avaliações), o novo produto deve implementar mecânicas de gamificação e incentivos específicos para estimular a escrita de críticas textuais e enriquecer a comunidade.
 
-📓 Notebook
+## 📓 Notebook
 
 A análise completa pode ser consultada no notebook:
 
