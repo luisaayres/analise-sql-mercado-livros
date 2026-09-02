@@ -24,8 +24,8 @@ A análise utiliza consultas SQL para extrair métricas sobre o catálogo e o co
 - Volume do Catálogo: Filtro temporal para contabilizar livros publicados após 1º de janeiro de 2000;
 - Métricas por Livro: Agrupamento e cálculo da quantidade de classificações e nota média por obra;
 - Análise de Editoras: Identificação da editora com maior volume de livros com mais de 50 páginas;
-- Avaliabilidade e Reputação de Autores: Filtragem subquerida para autores com obras possuindo pelo menos 50 classificações e ordenação por média de notas;
-- Comportamento dos Usuários Engajados: Subconsultas com LEFT JOIN e agregações para medir o número médio de resenhas textuais escritas por usuários com mais de 50 livros classificados.
+- Avaliação e Reputação de Autores: Identificação dos autores com obras que possuem pelo menos 50 avaliações, com análise e ordenação pela média das notas.
+- Comportamento dos Usuários Engajados: Subconsultas com LEFT JOIN para medir o número médio de resenhas textuais escritas por usuários com mais de 50 livros classificados.
 
 ## 📈 Principais Resultados
 - Atualidade do Catálogo: Dos 1.000 livros presentes na base, 819 livros foram publicados após 1º de janeiro de 2000, indicando um catálogo focado em publicações recentes.
